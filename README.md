@@ -4,6 +4,8 @@
 
 An E-commerce back end architecture. Given a working Express.js API I was tasked with using Sequelize to interact with a MySQL database.
 
+[Click here to view a video walkthrough](https://drive.google.com/file/d/1qNoH3_s93SLIkpHrsoK1vf-KdHDYay1W/view)
+
 ![Get All Categories Image](./assets/CategoriesGetScreenshot.png)
 
 ![Get Product by ID](./assets/ProductsGetbyID.png)
